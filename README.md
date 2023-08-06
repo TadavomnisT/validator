@@ -7,6 +7,8 @@ Validator is a free and open-source package for file validation.
 
 + Add all files that are considered in Unix `file` package, by getting the `file --list` (A list of `file` supported files is in the "[./dev_resources/file_list](https://github.com/TadavomnisT/validator/blob/main/dev_resources/file_list)" )
 
++ Add all files that are listed in : https://en.wikipedia.org/wiki/List_of_file_signatures
+
 ### Add support of following file formats:
 
 * Document Formats:
