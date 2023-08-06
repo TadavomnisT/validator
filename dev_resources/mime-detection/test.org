@@ -1,0 +1,15 @@
+#+TITLE: Prueba shared-mime-info
+#+AUTHOR: Autores
+#+DATE: 01-01-2021
+
+Lorem ipsum dolor sit amet, consectectur adisplicit elit
+* Prima
+** Secunda
+** Tertia
+* Quarta
+** Quinta
+*** Sexta
+*** Septima
+** Octava
+* Nona
+** Decima
