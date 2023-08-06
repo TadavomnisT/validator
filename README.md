@@ -5,6 +5,8 @@ Validator is a free and open-source package for file validation.
 
 ## To-do list:
 
++ Add all files that are considered in Unix `file` package, by getting the `file --list` (A list of `file` supported files is in the "/dev_resources/file_list" )
+
 ### Add support of following file formats:
 
 * Document Formats:
